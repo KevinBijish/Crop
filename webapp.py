@@ -10,8 +10,9 @@ st.set_page_config(page_title="Khet Sahayak · Crop Recommendation", layout="wid
 st.markdown("""
     <style>
     label, .stSelectbox label, .stTextInput label, .stNumberInput label, .stSlider label {
-        color: #18683A !important;
+        color: #00a859 !important;
         font-weight: bold !important;
+        font-size: 18px !important;
     }
     </style>
 """, unsafe_allow_html=True)
